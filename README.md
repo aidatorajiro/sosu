@@ -1,11 +1,11 @@
-#SOSU By Aida Torajiro
+# SOSU By Aida Torajiro
 
 musics made from prime sequences
 
 ## LIBRARIES USED
 Data.Numbers.Primes: Sebastian Fischer
 
-##LICENSE
+## LICENSE
 The MIT License (MIT)
 Copyright (c) 2016 Aida Torajiro
 
